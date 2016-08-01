@@ -1,0 +1,968 @@
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\bin\Debug\Utility.exe
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\bin\Debug\Utility.pdb
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Properties.Resources.resources
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.exe
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.pdb
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\bin\Debug\Utility.exe.config
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Util.resources
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Mail.resources
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Translator.resources
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.WebSearch.resources
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.SystemInfo.resources
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Narrator.resources
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.csproj.ResolveComReference.cache
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\bin\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Dictionary.resources
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.ImageCryptor.resources
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DeleteId.resources
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DataCryptor.resources
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.EText.resources
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.AboutDeveloper.resources
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Rumman Siddiqui\My Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Pdfreader.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\bin\Debug\Utility.exe.config
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.csproj.ResolveComReference.cache
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.exe
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.pdb
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.AboutDeveloper.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.EText.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Narrator.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.SystemInfo.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Translator.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Util.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Mail.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Properties.Resources.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.WebSearch.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\bin\Debug\Utility.exe
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\bin\Debug\Utility.pdb
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DeleteKey.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DeleteKeyandIV.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DePass.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.ImageDecryptor.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.ImageEnCryptor.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.FileManager.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DataDeCryptor.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DataEnCryptor.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DDecider.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.IDecider.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DDePass.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.FLock.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\bin\Debug\Utility.exe.config
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.csproj.ResolveComReference.cache
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.exe
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.pdb
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\bin\Debug\Utility.exe
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\bin\Debug\Utility.pdb
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.AboutDeveloper.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DataDeCryptor.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DataEnCryptor.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DDecider.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DDePass.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.FLock.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.IDecider.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DeleteKey.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DeleteKeyandIV.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.DePass.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.EText.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.FileManager.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.ImageDeCryptor.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.ImageEnCryptor.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Narrator.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.SystemInfo.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Translator.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Util.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Mail.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Properties.Resources.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.WebSearch.resources
+C:\Users\Server\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.LibManagement.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.Barchissue.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BArchDecider.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BarchIssueConfirm.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BArchAddBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BArchDelBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BArchReturnBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BArchDetofIssuedBooks.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BScDecider.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BScIssue.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BScIssueConfirm.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BScAddBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BScDelBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BScDetofIssuedBooks.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BScReturnBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BTechAddBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BTechDecider.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BTechDelBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BTechDetOfIssuedBooks.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BTechIssue.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BTechIssueConfirm.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.BTechReturnBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MArchAddBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MArchDecider.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MArchDelBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MArchDetOfIssuedBooks.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MArchIssue.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MArchIssueConfirm.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MArchReturnBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MBAAddBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MBADecider.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MBADelBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MBADetofIssuedBooks.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MBAIssue.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MBAIssueConfirm.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MBAReturnBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MCADecider.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MScDecider.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MTechDecider.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MCAAddBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MCADelBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MCADetOfIssuedBooks.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MCAIssue.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MCAIssueConfirm.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MCAReturnBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MScAddBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MScDelBook.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MScDetOfIssuedBooks.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MScIssue.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MScIssueConfirm.resources
+C:\Users\Rumman\Documents\Visual Studio 2008\Projects\Utility\obj\Debug\Utility.MScReturnBook.resources
+F:\softwares\Utility\bin\Debug\Utility.exe.config
+F:\softwares\Utility\obj\Debug\Interop.SpeechLib.dll
+F:\softwares\Utility\obj\Debug\Utility.csproj.ResolveComReference.cache
+F:\softwares\Utility\obj\Debug\Utility.exe
+F:\softwares\Utility\obj\Debug\Utility.pdb
+F:\softwares\Utility\obj\Debug\ResolveAssemblyReference.cache
+F:\softwares\Utility\obj\Debug\Utility.AboutDeveloper.resources
+F:\softwares\Utility\obj\Debug\Utility.BArchAddBook.resources
+F:\softwares\Utility\obj\Debug\Utility.BArchDelBook.resources
+F:\softwares\Utility\obj\Debug\Utility.BArchDetofIssuedBooks.resources
+F:\softwares\Utility\obj\Debug\Utility.BArchIssue.resources
+F:\softwares\Utility\obj\Debug\Utility.BArchDecider.resources
+F:\softwares\Utility\obj\Debug\Utility.BarchIssueConfirm.resources
+F:\softwares\Utility\obj\Debug\Utility.BArchReturnBook.resources
+F:\softwares\Utility\obj\Debug\Utility.BScAddBook.resources
+F:\softwares\Utility\obj\Debug\Utility.BScDecider.resources
+F:\softwares\Utility\obj\Debug\Utility.BScDelBook.resources
+F:\softwares\Utility\obj\Debug\Utility.BScDetofIssuedBooks.resources
+F:\softwares\Utility\obj\Debug\Utility.BScIssue.resources
+F:\softwares\Utility\obj\Debug\Utility.BScIssueConfirm.resources
+F:\softwares\Utility\obj\Debug\Utility.BScReturnBook.resources
+F:\softwares\Utility\obj\Debug\Utility.BTechAddBook.resources
+F:\softwares\Utility\obj\Debug\Utility.BTechDecider.resources
+F:\softwares\Utility\obj\Debug\Utility.BTechDelBook.resources
+F:\softwares\Utility\obj\Debug\Utility.BTechDetOfIssuedBooks.resources
+F:\softwares\Utility\obj\Debug\Utility.BTechIssue.resources
+F:\softwares\Utility\obj\Debug\Utility.BTechIssueConfirm.resources
+F:\softwares\Utility\obj\Debug\Utility.BTechReturnBook.resources
+F:\softwares\Utility\obj\Debug\Utility.DataDeCryptor.resources
+F:\softwares\Utility\obj\Debug\Utility.DataEnCryptor.resources
+F:\softwares\Utility\obj\Debug\Utility.DDecider.resources
+F:\softwares\Utility\obj\Debug\Utility.DDePass.resources
+F:\softwares\Utility\obj\Debug\Utility.FLock.resources
+F:\softwares\Utility\obj\Debug\Utility.IDecider.resources
+F:\softwares\Utility\obj\Debug\Utility.DeleteKey.resources
+F:\softwares\Utility\obj\Debug\Utility.DeleteKeyandIV.resources
+F:\softwares\Utility\obj\Debug\Utility.DePass.resources
+F:\softwares\Utility\obj\Debug\Utility.EText.resources
+F:\softwares\Utility\obj\Debug\Utility.FileManager.resources
+F:\softwares\Utility\obj\Debug\Utility.ImageDeCryptor.resources
+F:\softwares\Utility\obj\Debug\Utility.ImageEnCryptor.resources
+F:\softwares\Utility\obj\Debug\Utility.LibManagement.resources
+F:\softwares\Utility\obj\Debug\Utility.MArchAddBook.resources
+F:\softwares\Utility\obj\Debug\Utility.MArchDecider.resources
+F:\softwares\Utility\obj\Debug\Utility.MArchDelBook.resources
+F:\softwares\Utility\obj\Debug\Utility.MArchDetOfIssuedBooks.resources
+F:\softwares\Utility\obj\Debug\Utility.MArchIssue.resources
+F:\softwares\Utility\obj\Debug\Utility.MArchIssueConfirm.resources
+F:\softwares\Utility\obj\Debug\Utility.MArchReturnBook.resources
+F:\softwares\Utility\obj\Debug\Utility.MBAAddBook.resources
+F:\softwares\Utility\obj\Debug\Utility.MBADecider.resources
+F:\softwares\Utility\obj\Debug\Utility.MBADelBook.resources
+F:\softwares\Utility\obj\Debug\Utility.MBADetofIssuedBooks.resources
+F:\softwares\Utility\obj\Debug\Utility.MBAIssue.resources
+F:\softwares\Utility\obj\Debug\Utility.MBAIssueConfirm.resources
+F:\softwares\Utility\obj\Debug\Utility.MBAReturnBook.resources
+F:\softwares\Utility\obj\Debug\Utility.MCAAddBook.resources
+F:\softwares\Utility\obj\Debug\Utility.MCADecider.resources
+F:\softwares\Utility\obj\Debug\Utility.MCADelBook.resources
+F:\softwares\Utility\obj\Debug\Utility.MCADetOfIssuedBooks.resources
+F:\softwares\Utility\obj\Debug\Utility.MCAIssue.resources
+F:\softwares\Utility\obj\Debug\Utility.MCAIssueConfirm.resources
+F:\softwares\Utility\obj\Debug\Utility.MCAReturnBook.resources
+F:\softwares\Utility\obj\Debug\Utility.MScAddBook.resources
+F:\softwares\Utility\obj\Debug\Utility.MScDecider.resources
+F:\softwares\Utility\obj\Debug\Utility.MScDelBook.resources
+F:\softwares\Utility\obj\Debug\Utility.MScDetOfIssuedBooks.resources
+F:\softwares\Utility\obj\Debug\Utility.MScIssue.resources
+F:\softwares\Utility\obj\Debug\Utility.MScIssueConfirm.resources
+F:\softwares\Utility\obj\Debug\Utility.MScReturnBook.resources
+F:\softwares\Utility\obj\Debug\Utility.MTechDecider.resources
+F:\softwares\Utility\obj\Debug\Utility.Narrator.resources
+F:\softwares\Utility\obj\Debug\Utility.SystemInfo.resources
+F:\softwares\Utility\obj\Debug\Utility.Translator.resources
+F:\softwares\Utility\obj\Debug\Utility.Util.resources
+F:\softwares\Utility\obj\Debug\Utility.Mail.resources
+F:\softwares\Utility\obj\Debug\Utility.Properties.Resources.resources
+F:\softwares\Utility\obj\Debug\Utility.WebSearch.resources
+F:\softwares\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
+F:\softwares\Utility\bin\Debug\Utility.exe
+F:\softwares\Utility\bin\Debug\Utility.pdb
+F:\softwares\Utility\bin\Debug\Interop.SpeechLib.dll
+F:\softwares\Project\Utility\bin\Debug\Utility.exe.config
+F:\softwares\Project\Utility\obj\Debug\Interop.SpeechLib.dll
+F:\softwares\Project\Utility\obj\Debug\Utility.csproj.ResolveComReference.cache
+F:\softwares\Project\Utility\obj\Debug\Utility.exe
+F:\softwares\Project\Utility\obj\Debug\Utility.pdb
+F:\softwares\Project\Utility\bin\Debug\Utility.exe
+F:\softwares\Project\Utility\bin\Debug\Utility.pdb
+F:\softwares\Project\Utility\bin\Debug\Interop.SpeechLib.dll
+F:\softwares\Project\Utility\obj\Debug\ResolveAssemblyReference.cache
+F:\softwares\Project\Utility\obj\Debug\Utility.AboutDeveloper.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BArchAddBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BArchDelBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BArchDetofIssuedBooks.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BArchIssue.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BArchDecider.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BarchIssueConfirm.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BArchReturnBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BScAddBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BScDecider.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BScDelBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BScDetofIssuedBooks.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BScIssue.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BScIssueConfirm.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BScReturnBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BTechAddBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BTechDecider.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BTechDelBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BTechDetOfIssuedBooks.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BTechIssue.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BTechIssueConfirm.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.BTechReturnBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.DataDeCryptor.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.DataEnCryptor.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.DDecider.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.DDePass.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.FLock.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.IDecider.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.DeleteKey.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.DeleteKeyandIV.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.DePass.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.EText.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.FileManager.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.ImageDeCryptor.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.ImageEnCryptor.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.LibManagement.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MArchAddBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MArchDecider.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MArchDelBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MArchDetOfIssuedBooks.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MArchIssue.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MArchIssueConfirm.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MArchReturnBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MBAAddBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MBADecider.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MBADelBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MBADetofIssuedBooks.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MBAIssue.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MBAIssueConfirm.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MBAReturnBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MCAAddBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MCADecider.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MCADelBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MCADetOfIssuedBooks.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MCAIssue.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MCAIssueConfirm.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MCAReturnBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MScAddBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MScDecider.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MScDelBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MScDetOfIssuedBooks.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MScIssue.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MScIssueConfirm.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MScReturnBook.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.MTechDecider.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.Narrator.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.SystemInfo.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.Translator.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.Util.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.Mail.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.Properties.Resources.resources
+F:\softwares\Project\Utility\obj\Debug\Utility.WebSearch.resources
+F:\softwares\Project\Utility\obj\Debug\ResGen.read.1.tlog
+F:\softwares\Project\Utility\obj\Debug\ResGen.write.1.tlog
+D:\Project\Utility\bin\Debug\Utility.exe.config
+D:\Project\Utility\obj\Debug\Interop.SpeechLib.dll
+D:\Project\Utility\obj\Debug\Utility.csproj.ResolveComReference.cache
+D:\Project\Utility\obj\Debug\Utility.exe
+D:\Project\Utility\obj\Debug\Utility.pdb
+D:\Project\Utility\bin\Debug\Utility.exe
+D:\Project\Utility\bin\Debug\Utility.pdb
+D:\Project\Utility\bin\Debug\Interop.SpeechLib.dll
+D:\Project\Utility\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Utility\obj\Debug\Utility.AboutDeveloper.resources
+D:\Project\Utility\obj\Debug\Utility.BArchAddBook.resources
+D:\Project\Utility\obj\Debug\Utility.BArchDelBook.resources
+D:\Project\Utility\obj\Debug\Utility.BArchDetofIssuedBooks.resources
+D:\Project\Utility\obj\Debug\Utility.BArchIssue.resources
+D:\Project\Utility\obj\Debug\Utility.BArchDecider.resources
+D:\Project\Utility\obj\Debug\Utility.BarchIssueConfirm.resources
+D:\Project\Utility\obj\Debug\Utility.BArchReturnBook.resources
+D:\Project\Utility\obj\Debug\Utility.BScAddBook.resources
+D:\Project\Utility\obj\Debug\Utility.BScDecider.resources
+D:\Project\Utility\obj\Debug\Utility.BScDelBook.resources
+D:\Project\Utility\obj\Debug\Utility.BScDetofIssuedBooks.resources
+D:\Project\Utility\obj\Debug\Utility.BScIssue.resources
+D:\Project\Utility\obj\Debug\Utility.BScIssueConfirm.resources
+D:\Project\Utility\obj\Debug\Utility.BScReturnBook.resources
+D:\Project\Utility\obj\Debug\Utility.BTechAddBook.resources
+D:\Project\Utility\obj\Debug\Utility.BTechDecider.resources
+D:\Project\Utility\obj\Debug\Utility.BTechDelBook.resources
+D:\Project\Utility\obj\Debug\Utility.BTechDetOfIssuedBooks.resources
+D:\Project\Utility\obj\Debug\Utility.BTechIssue.resources
+D:\Project\Utility\obj\Debug\Utility.BTechIssueConfirm.resources
+D:\Project\Utility\obj\Debug\Utility.BTechReturnBook.resources
+D:\Project\Utility\obj\Debug\Utility.DataDeCryptor.resources
+D:\Project\Utility\obj\Debug\Utility.DataEnCryptor.resources
+D:\Project\Utility\obj\Debug\Utility.DDecider.resources
+D:\Project\Utility\obj\Debug\Utility.DDePass.resources
+D:\Project\Utility\obj\Debug\Utility.FLock.resources
+D:\Project\Utility\obj\Debug\Utility.IDecider.resources
+D:\Project\Utility\obj\Debug\Utility.DeleteKey.resources
+D:\Project\Utility\obj\Debug\Utility.DeleteKeyandIV.resources
+D:\Project\Utility\obj\Debug\Utility.DePass.resources
+D:\Project\Utility\obj\Debug\Utility.EText.resources
+D:\Project\Utility\obj\Debug\Utility.FileManager.resources
+D:\Project\Utility\obj\Debug\Utility.ImageDeCryptor.resources
+D:\Project\Utility\obj\Debug\Utility.ImageEnCryptor.resources
+D:\Project\Utility\obj\Debug\Utility.LibManagement.resources
+D:\Project\Utility\obj\Debug\Utility.MArchAddBook.resources
+D:\Project\Utility\obj\Debug\Utility.MArchDecider.resources
+D:\Project\Utility\obj\Debug\Utility.MArchDelBook.resources
+D:\Project\Utility\obj\Debug\Utility.MArchDetOfIssuedBooks.resources
+D:\Project\Utility\obj\Debug\Utility.MArchIssue.resources
+D:\Project\Utility\obj\Debug\Utility.MArchIssueConfirm.resources
+D:\Project\Utility\obj\Debug\Utility.MArchReturnBook.resources
+D:\Project\Utility\obj\Debug\Utility.MBAAddBook.resources
+D:\Project\Utility\obj\Debug\Utility.MBADecider.resources
+D:\Project\Utility\obj\Debug\Utility.MBADelBook.resources
+D:\Project\Utility\obj\Debug\Utility.MBADetofIssuedBooks.resources
+D:\Project\Utility\obj\Debug\Utility.MBAIssue.resources
+D:\Project\Utility\obj\Debug\Utility.MBAIssueConfirm.resources
+D:\Project\Utility\obj\Debug\Utility.MBAReturnBook.resources
+D:\Project\Utility\obj\Debug\Utility.MCAAddBook.resources
+D:\Project\Utility\obj\Debug\Utility.MCADecider.resources
+D:\Project\Utility\obj\Debug\Utility.MCADelBook.resources
+D:\Project\Utility\obj\Debug\Utility.MCADetOfIssuedBooks.resources
+D:\Project\Utility\obj\Debug\Utility.MCAIssue.resources
+D:\Project\Utility\obj\Debug\Utility.MCAIssueConfirm.resources
+D:\Project\Utility\obj\Debug\Utility.MCAReturnBook.resources
+D:\Project\Utility\obj\Debug\Utility.MScAddBook.resources
+D:\Project\Utility\obj\Debug\Utility.MScDecider.resources
+D:\Project\Utility\obj\Debug\Utility.MScDelBook.resources
+D:\Project\Utility\obj\Debug\Utility.MScDetOfIssuedBooks.resources
+D:\Project\Utility\obj\Debug\Utility.MScIssue.resources
+D:\Project\Utility\obj\Debug\Utility.MScIssueConfirm.resources
+D:\Project\Utility\obj\Debug\Utility.MScReturnBook.resources
+D:\Project\Utility\obj\Debug\Utility.MTechDecider.resources
+D:\Project\Utility\obj\Debug\Utility.Narrator.resources
+D:\Project\Utility\obj\Debug\Utility.SystemInfo.resources
+D:\Project\Utility\obj\Debug\Utility.Translator.resources
+D:\Project\Utility\obj\Debug\Utility.Util.resources
+D:\Project\Utility\obj\Debug\Utility.Mail.resources
+D:\Project\Utility\obj\Debug\Utility.Properties.Resources.resources
+D:\Project\Utility\obj\Debug\Utility.WebSearch.resources
+D:\Project\Utility\obj\Debug\ResGen.read.1.tlog
+D:\Project\Utility\obj\Debug\ResGen.write.1.tlog
+D:\Project\Utility\obj\Debug\Utility.Chat.resources
+D:\Project of Final Year\Project\Utility\bin\Debug\Utility.exe.config
+D:\Project of Final Year\Project\Utility\obj\Debug\Interop.SpeechLib.dll
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.csproj.ResolveComReference.cache
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.exe
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.pdb
+D:\Project of Final Year\Project\Utility\bin\Debug\Utility.exe
+D:\Project of Final Year\Project\Utility\bin\Debug\Utility.pdb
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.AboutDeveloper.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BArchAddBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BArchDelBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BArchDetofIssuedBooks.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BArchIssue.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BArchDecider.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BarchIssueConfirm.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BArchReturnBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BScAddBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BScDecider.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BScDelBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BScDetofIssuedBooks.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BScIssue.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BScIssueConfirm.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BScReturnBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BTechAddBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BTechDecider.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BTechDelBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BTechDetOfIssuedBooks.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BTechIssue.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BTechIssueConfirm.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.BTechReturnBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.Chat.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.DataDeCryptor.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.DataEnCryptor.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.DDecider.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.DDePass.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.FLock.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.IDecider.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.DeleteKey.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.DeleteKeyandIV.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.DePass.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.EText.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.FileManager.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.ImageDeCryptor.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.ImageEnCryptor.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.LibManagement.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MArchAddBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MArchDecider.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MArchDelBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MArchDetOfIssuedBooks.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MArchIssue.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MArchIssueConfirm.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MArchReturnBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MBAAddBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MBADecider.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MBADelBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MBADetofIssuedBooks.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MBAIssue.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MBAIssueConfirm.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MBAReturnBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MCAAddBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MCADecider.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MCADelBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MCADetOfIssuedBooks.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MCAIssue.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MCAIssueConfirm.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MCAReturnBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MScAddBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MScDecider.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MScDelBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MScDetOfIssuedBooks.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MScIssue.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MScIssueConfirm.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MScReturnBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MTechDecider.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.Narrator.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.SystemInfo.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.Translator.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.Util.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.Mail.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.Properties.Resources.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.WebSearch.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.Web_Scrapper.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.WebDecider.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MTechAddBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MTechDelBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MTechDetOfIssuedBooks.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MTechIssue.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MTechIssueConfirm.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MTechReturnBook.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.WebPage.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.HDDInfo.resources
+D:\Project of Final Year\Project\Utility\bin\Debug\WindowsFormsToolkit.dll
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MConsole.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MConDecider.resources
+D:\Project of Final Year\Project\Utility\obj\Debug\Utility.MConsoleNet.resources
+D:\Util\bin\Debug\Utility.exe.config
+D:\Util\obj\Debug\Interop.SpeechLib.dll
+D:\Util\obj\Debug\Utility.csproj.ResolveComReference.cache
+D:\Util\obj\Debug\Utility.exe
+D:\Util\obj\Debug\Utility.pdb
+D:\Util\bin\Debug\Utility.exe
+D:\Util\bin\Debug\Utility.pdb
+D:\Util\bin\Debug\WindowsFormsToolkit.dll
+D:\Util\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+D:\Util\obj\Debug\Utility.AboutDeveloper.resources
+D:\Util\obj\Debug\Utility.BArchAddBook.resources
+D:\Util\obj\Debug\Utility.BArchDelBook.resources
+D:\Util\obj\Debug\Utility.BArchDetofIssuedBooks.resources
+D:\Util\obj\Debug\Utility.BArchIssue.resources
+D:\Util\obj\Debug\Utility.BArchDecider.resources
+D:\Util\obj\Debug\Utility.BarchIssueConfirm.resources
+D:\Util\obj\Debug\Utility.BArchReturnBook.resources
+D:\Util\obj\Debug\Utility.BScAddBook.resources
+D:\Util\obj\Debug\Utility.BScDecider.resources
+D:\Util\obj\Debug\Utility.BScDelBook.resources
+D:\Util\obj\Debug\Utility.BScDetofIssuedBooks.resources
+D:\Util\obj\Debug\Utility.BScIssue.resources
+D:\Util\obj\Debug\Utility.BScIssueConfirm.resources
+D:\Util\obj\Debug\Utility.BScReturnBook.resources
+D:\Util\obj\Debug\Utility.BTechAddBook.resources
+D:\Util\obj\Debug\Utility.BTechDecider.resources
+D:\Util\obj\Debug\Utility.BTechDelBook.resources
+D:\Util\obj\Debug\Utility.BTechDetOfIssuedBooks.resources
+D:\Util\obj\Debug\Utility.BTechIssue.resources
+D:\Util\obj\Debug\Utility.BTechIssueConfirm.resources
+D:\Util\obj\Debug\Utility.BTechReturnBook.resources
+D:\Util\obj\Debug\Utility.Chat.resources
+D:\Util\obj\Debug\Utility.DataDeCryptor.resources
+D:\Util\obj\Debug\Utility.DataEnCryptor.resources
+D:\Util\obj\Debug\Utility.DDecider.resources
+D:\Util\obj\Debug\Utility.DDePass.resources
+D:\Util\obj\Debug\Utility.FLock.resources
+D:\Util\obj\Debug\Utility.HDDInfo.resources
+D:\Util\obj\Debug\Utility.IDecider.resources
+D:\Util\obj\Debug\Utility.DeleteKey.resources
+D:\Util\obj\Debug\Utility.DeleteKeyandIV.resources
+D:\Util\obj\Debug\Utility.DePass.resources
+D:\Util\obj\Debug\Utility.EText.resources
+D:\Util\obj\Debug\Utility.FileManager.resources
+D:\Util\obj\Debug\Utility.ImageDeCryptor.resources
+D:\Util\obj\Debug\Utility.ImageEnCryptor.resources
+D:\Util\obj\Debug\Utility.LibManagement.resources
+D:\Util\obj\Debug\Utility.MArchAddBook.resources
+D:\Util\obj\Debug\Utility.MArchDecider.resources
+D:\Util\obj\Debug\Utility.MArchDelBook.resources
+D:\Util\obj\Debug\Utility.MArchDetOfIssuedBooks.resources
+D:\Util\obj\Debug\Utility.MArchIssue.resources
+D:\Util\obj\Debug\Utility.MArchIssueConfirm.resources
+D:\Util\obj\Debug\Utility.MArchReturnBook.resources
+D:\Util\obj\Debug\Utility.MBAAddBook.resources
+D:\Util\obj\Debug\Utility.MBADecider.resources
+D:\Util\obj\Debug\Utility.MBADelBook.resources
+D:\Util\obj\Debug\Utility.MBADetofIssuedBooks.resources
+D:\Util\obj\Debug\Utility.MBAIssue.resources
+D:\Util\obj\Debug\Utility.MBAIssueConfirm.resources
+D:\Util\obj\Debug\Utility.MBAReturnBook.resources
+D:\Util\obj\Debug\Utility.MCAAddBook.resources
+D:\Util\obj\Debug\Utility.MCADecider.resources
+D:\Util\obj\Debug\Utility.MCADelBook.resources
+D:\Util\obj\Debug\Utility.MCADetOfIssuedBooks.resources
+D:\Util\obj\Debug\Utility.MCAIssue.resources
+D:\Util\obj\Debug\Utility.MCAIssueConfirm.resources
+D:\Util\obj\Debug\Utility.MCAReturnBook.resources
+D:\Util\obj\Debug\Utility.MConDecider.resources
+D:\Util\obj\Debug\Utility.MConsole.resources
+D:\Util\obj\Debug\Utility.MConsoleNet.resources
+D:\Util\obj\Debug\Utility.MScAddBook.resources
+D:\Util\obj\Debug\Utility.MScDecider.resources
+D:\Util\obj\Debug\Utility.MScDelBook.resources
+D:\Util\obj\Debug\Utility.MScDetOfIssuedBooks.resources
+D:\Util\obj\Debug\Utility.MScIssue.resources
+D:\Util\obj\Debug\Utility.MScIssueConfirm.resources
+D:\Util\obj\Debug\Utility.MScReturnBook.resources
+D:\Util\obj\Debug\Utility.MTechAddBook.resources
+D:\Util\obj\Debug\Utility.MTechDecider.resources
+D:\Util\obj\Debug\Utility.MTechDelBook.resources
+D:\Util\obj\Debug\Utility.MTechDetOfIssuedBooks.resources
+D:\Util\obj\Debug\Utility.MTechIssue.resources
+D:\Util\obj\Debug\Utility.MTechIssueConfirm.resources
+D:\Util\obj\Debug\Utility.MTechReturnBook.resources
+D:\Util\obj\Debug\Utility.Narrator.resources
+D:\Util\obj\Debug\Utility.SystemInfo.resources
+D:\Util\obj\Debug\Utility.Translator.resources
+D:\Util\obj\Debug\Utility.Util.resources
+D:\Util\obj\Debug\Utility.Mail.resources
+D:\Util\obj\Debug\Utility.Properties.Resources.resources
+D:\Util\obj\Debug\Utility.Web_Scrapper.resources
+D:\Util\obj\Debug\Utility.WebDecider.resources
+D:\Util\obj\Debug\Utility.WebPage.resources
+D:\Util\obj\Debug\Utility.WebSearch.resources
+D:\Util\obj\Debug\Utility.csproj.GenerateResource.Cache
+D:\Util\obj\Debug\Utility.Extra.resources
+D:\Project of Final Year\Project\Util\bin\Debug\Utility.exe.config
+D:\Project of Final Year\Project\Util\obj\Debug\Interop.SpeechLib.dll
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.csproj.ResolveComReference.cache
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.exe
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.pdb
+D:\Project of Final Year\Project\Util\bin\Debug\Utility.exe
+D:\Project of Final Year\Project\Util\bin\Debug\Utility.pdb
+D:\Project of Final Year\Project\Util\bin\Debug\WindowsFormsToolkit.dll
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.AboutDeveloper.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BArchAddBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BArchDelBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BArchDetofIssuedBooks.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BArchIssue.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BArchDecider.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BarchIssueConfirm.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BArchReturnBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BScAddBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BScDecider.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BScDelBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BScDetofIssuedBooks.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BScIssue.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BScIssueConfirm.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BScReturnBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BTechAddBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BTechDecider.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BTechDelBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BTechDetOfIssuedBooks.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BTechIssue.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BTechIssueConfirm.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.BTechReturnBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.Chat.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.DataDeCryptor.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.DataEnCryptor.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.DDecider.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.DDePass.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.Extra.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.FLock.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.HDDInfo.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.IDecider.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.DeleteKey.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.DeleteKeyandIV.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.DePass.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.EText.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.FileManager.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.ImageDeCryptor.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.ImageEnCryptor.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.LibManagement.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MArchAddBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MArchDecider.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MArchDelBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MArchDetOfIssuedBooks.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MArchIssue.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MArchIssueConfirm.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MArchReturnBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MBAAddBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MBADecider.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MBADelBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MBADetofIssuedBooks.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MBAIssue.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MBAIssueConfirm.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MBAReturnBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MCAAddBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MCADecider.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MCADelBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MCADetOfIssuedBooks.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MCAIssue.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MCAIssueConfirm.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MCAReturnBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MConDecider.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MConsole.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MConsoleNet.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MScAddBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MScDecider.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MScDelBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MScDetOfIssuedBooks.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MScIssue.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MScIssueConfirm.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MScReturnBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MTechAddBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MTechDecider.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MTechDelBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MTechDetOfIssuedBooks.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MTechIssue.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MTechIssueConfirm.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.MTechReturnBook.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.Narrator.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.SystemInfo.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.Translator.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.Util.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.Mail.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.Properties.Resources.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.Web_Scrapper.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.WebDecider.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.WebPage.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.WebSearch.resources
+D:\Project of Final Year\Project\Util\obj\Debug\Utility.csproj.GenerateResource.Cache
+D:\Final Year Project\Util\bin\Debug\Utility.exe.config
+D:\Final Year Project\Util\bin\Debug\Utility.exe
+D:\Final Year Project\Util\bin\Debug\Utility.pdb
+D:\Final Year Project\Util\obj\Debug\Interop.SpeechLib.dll
+D:\Final Year Project\Util\obj\Debug\Utility.csproj.ResolveComReference.cache
+D:\Final Year Project\Util\obj\Debug\Utility.AboutDeveloper.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BArchAddBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BArchDelBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BArchDetofIssuedBooks.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BArchIssue.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BArchDecider.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BarchIssueConfirm.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BArchReturnBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BScAddBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BScDecider.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BScDelBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BScDetofIssuedBooks.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BScIssue.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BScIssueConfirm.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BScReturnBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BTechAddBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BTechDecider.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BTechDelBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BTechDetOfIssuedBooks.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BTechIssue.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BTechIssueConfirm.resources
+D:\Final Year Project\Util\obj\Debug\Utility.BTechReturnBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.Chat.resources
+D:\Final Year Project\Util\obj\Debug\Utility.DataDeCryptor.resources
+D:\Final Year Project\Util\obj\Debug\Utility.DataEnCryptor.resources
+D:\Final Year Project\Util\obj\Debug\Utility.DDecider.resources
+D:\Final Year Project\Util\obj\Debug\Utility.DDePass.resources
+D:\Final Year Project\Util\obj\Debug\Utility.Extra.resources
+D:\Final Year Project\Util\obj\Debug\Utility.FLock.resources
+D:\Final Year Project\Util\obj\Debug\Utility.HDDInfo.resources
+D:\Final Year Project\Util\obj\Debug\Utility.IDecider.resources
+D:\Final Year Project\Util\obj\Debug\Utility.DeleteKey.resources
+D:\Final Year Project\Util\obj\Debug\Utility.DeleteKeyandIV.resources
+D:\Final Year Project\Util\obj\Debug\Utility.DePass.resources
+D:\Final Year Project\Util\obj\Debug\Utility.EText.resources
+D:\Final Year Project\Util\obj\Debug\Utility.FileManager.resources
+D:\Final Year Project\Util\obj\Debug\Utility.ImageDeCryptor.resources
+D:\Final Year Project\Util\obj\Debug\Utility.ImageEnCryptor.resources
+D:\Final Year Project\Util\obj\Debug\Utility.LibManagement.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MArchAddBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MArchDecider.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MArchDelBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MArchDetOfIssuedBooks.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MArchIssue.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MArchIssueConfirm.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MArchReturnBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MBAAddBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MBADecider.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MBADelBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MBADetofIssuedBooks.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MBAIssue.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MBAIssueConfirm.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MBAReturnBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MCAAddBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MCADecider.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MCADelBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MCADetOfIssuedBooks.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MCAIssue.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MCAIssueConfirm.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MCAReturnBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MConDecider.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MConsole.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MConsoleNet.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MScAddBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MScDecider.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MScDelBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MScDetOfIssuedBooks.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MScIssue.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MScIssueConfirm.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MScReturnBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MTechAddBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MTechDecider.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MTechDelBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MTechDetOfIssuedBooks.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MTechIssue.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MTechIssueConfirm.resources
+D:\Final Year Project\Util\obj\Debug\Utility.MTechReturnBook.resources
+D:\Final Year Project\Util\obj\Debug\Utility.Narrator.resources
+D:\Final Year Project\Util\obj\Debug\Utility.SystemInfo.resources
+D:\Final Year Project\Util\obj\Debug\Utility.Translator.resources
+D:\Final Year Project\Util\obj\Debug\Utility.Util.resources
+D:\Final Year Project\Util\obj\Debug\Utility.Mail.resources
+D:\Final Year Project\Util\obj\Debug\Utility.Properties.Resources.resources
+D:\Final Year Project\Util\obj\Debug\Utility.Web_Scrapper.resources
+D:\Final Year Project\Util\obj\Debug\Utility.WebDecider.resources
+D:\Final Year Project\Util\obj\Debug\Utility.WebPage.resources
+D:\Final Year Project\Util\obj\Debug\Utility.WebSearch.resources
+D:\Final Year Project\Util\obj\Debug\Utility.csproj.GenerateResource.Cache
+D:\Final Year Project\Util\obj\Debug\Utility.exe
+D:\Final Year Project\Util\obj\Debug\Utility.pdb
+D:\Final Year Project\Util\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+D:\Project of Final year\Util\bin\Debug\Utility.exe.config
+D:\Project of Final year\Util\obj\Debug\Interop.SpeechLib.dll
+D:\Project of Final year\Util\obj\Debug\Utility.csproj.ResolveComReference.cache
+D:\Project of Final year\Util\obj\Debug\Utility.exe
+D:\Project of Final year\Util\obj\Debug\Utility.pdb
+D:\Project of Final year\Util\bin\Debug\Utility.exe
+D:\Project of Final year\Util\bin\Debug\Utility.pdb
+D:\Project of Final year\Util\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+D:\Project of Final year\Util\obj\Debug\Utility.AboutDeveloper.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BArchAddBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BArchDelBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BArchDetofIssuedBooks.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BArchIssue.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BArchDecider.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BarchIssueConfirm.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BArchReturnBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BScAddBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BScDecider.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BScDelBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BScDetofIssuedBooks.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BScIssue.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BScIssueConfirm.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BScReturnBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BTechAddBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BTechDecider.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BTechDelBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BTechDetOfIssuedBooks.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BTechIssue.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BTechIssueConfirm.resources
+D:\Project of Final year\Util\obj\Debug\Utility.BTechReturnBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.Chat.resources
+D:\Project of Final year\Util\obj\Debug\Utility.DataDeCryptor.resources
+D:\Project of Final year\Util\obj\Debug\Utility.DataEnCryptor.resources
+D:\Project of Final year\Util\obj\Debug\Utility.DDecider.resources
+D:\Project of Final year\Util\obj\Debug\Utility.DDePass.resources
+D:\Project of Final year\Util\obj\Debug\Utility.Extra.resources
+D:\Project of Final year\Util\obj\Debug\Utility.FLock.resources
+D:\Project of Final year\Util\obj\Debug\Utility.HDDInfo.resources
+D:\Project of Final year\Util\obj\Debug\Utility.IDecider.resources
+D:\Project of Final year\Util\obj\Debug\Utility.DeleteKey.resources
+D:\Project of Final year\Util\obj\Debug\Utility.DeleteKeyandIV.resources
+D:\Project of Final year\Util\obj\Debug\Utility.DePass.resources
+D:\Project of Final year\Util\obj\Debug\Utility.EText.resources
+D:\Project of Final year\Util\obj\Debug\Utility.FileManager.resources
+D:\Project of Final year\Util\obj\Debug\Utility.ImageDeCryptor.resources
+D:\Project of Final year\Util\obj\Debug\Utility.ImageEnCryptor.resources
+D:\Project of Final year\Util\obj\Debug\Utility.LibManagement.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MArchAddBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MArchDecider.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MArchDelBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MArchDetOfIssuedBooks.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MArchIssue.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MArchIssueConfirm.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MArchReturnBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MBAAddBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MBADecider.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MBADelBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MBADetofIssuedBooks.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MBAIssue.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MBAIssueConfirm.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MBAReturnBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MCAAddBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MCADecider.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MCADelBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MCADetOfIssuedBooks.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MCAIssue.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MCAIssueConfirm.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MCAReturnBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MConDecider.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MConsole.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MConsoleNet.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MScAddBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MScDecider.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MScDelBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MScDetOfIssuedBooks.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MScIssue.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MScIssueConfirm.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MScReturnBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MTechAddBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MTechDecider.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MTechDelBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MTechDetOfIssuedBooks.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MTechIssue.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MTechIssueConfirm.resources
+D:\Project of Final year\Util\obj\Debug\Utility.MTechReturnBook.resources
+D:\Project of Final year\Util\obj\Debug\Utility.Narrator.resources
+D:\Project of Final year\Util\obj\Debug\Utility.SystemInfo.resources
+D:\Project of Final year\Util\obj\Debug\Utility.Translator.resources
+D:\Project of Final year\Util\obj\Debug\Utility.Util.resources
+D:\Project of Final year\Util\obj\Debug\Utility.Mail.resources
+D:\Project of Final year\Util\obj\Debug\Utility.Properties.Resources.resources
+D:\Project of Final year\Util\obj\Debug\Utility.Web_Scrapper.resources
+D:\Project of Final year\Util\obj\Debug\Utility.WebDecider.resources
+D:\Project of Final year\Util\obj\Debug\Utility.WebPage.resources
+D:\Project of Final year\Util\obj\Debug\Utility.WebSearch.resources
+D:\Project of Final year\Util\obj\Debug\Utility.csproj.GenerateResource.Cache
+E:\Project of Final year\Util\bin\Debug\Utility.exe.config
+E:\Project of Final year\Util\obj\Debug\Interop.SpeechLib.dll
+E:\Project of Final year\Util\obj\Debug\Utility.csproj.ResolveComReference.cache
+E:\Project of Final year\Util\obj\Debug\Utility.exe
+E:\Project of Final year\Util\obj\Debug\Utility.pdb
+E:\Project of Final year\Util\bin\Debug\Utility.exe
+E:\Project of Final year\Util\bin\Debug\Utility.pdb
+E:\Project of Final year\Util\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+E:\Project of Final year\Util\obj\Debug\Utility.AboutDeveloper.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BArchAddBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BArchDelBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BArchDetofIssuedBooks.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BArchIssue.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BArchDecider.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BarchIssueConfirm.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BArchReturnBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BScAddBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BScDecider.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BScDelBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BScDetofIssuedBooks.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BScIssue.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BScIssueConfirm.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BScReturnBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BTechAddBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BTechDecider.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BTechDelBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BTechDetOfIssuedBooks.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BTechIssue.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BTechIssueConfirm.resources
+E:\Project of Final year\Util\obj\Debug\Utility.BTechReturnBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.Chat.resources
+E:\Project of Final year\Util\obj\Debug\Utility.DataDeCryptor.resources
+E:\Project of Final year\Util\obj\Debug\Utility.DataEnCryptor.resources
+E:\Project of Final year\Util\obj\Debug\Utility.DDecider.resources
+E:\Project of Final year\Util\obj\Debug\Utility.DDePass.resources
+E:\Project of Final year\Util\obj\Debug\Utility.Extra.resources
+E:\Project of Final year\Util\obj\Debug\Utility.FLock.resources
+E:\Project of Final year\Util\obj\Debug\Utility.HDDInfo.resources
+E:\Project of Final year\Util\obj\Debug\Utility.IDecider.resources
+E:\Project of Final year\Util\obj\Debug\Utility.DeleteKey.resources
+E:\Project of Final year\Util\obj\Debug\Utility.DeleteKeyandIV.resources
+E:\Project of Final year\Util\obj\Debug\Utility.DePass.resources
+E:\Project of Final year\Util\obj\Debug\Utility.EText.resources
+E:\Project of Final year\Util\obj\Debug\Utility.FileManager.resources
+E:\Project of Final year\Util\obj\Debug\Utility.ImageDeCryptor.resources
+E:\Project of Final year\Util\obj\Debug\Utility.ImageEnCryptor.resources
+E:\Project of Final year\Util\obj\Debug\Utility.LibManagement.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MArchAddBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MArchDecider.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MArchDelBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MArchDetOfIssuedBooks.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MArchIssue.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MArchIssueConfirm.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MArchReturnBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MBAAddBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MBADecider.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MBADelBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MBADetofIssuedBooks.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MBAIssue.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MBAIssueConfirm.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MBAReturnBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MCAAddBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MCADecider.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MCADelBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MCADetOfIssuedBooks.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MCAIssue.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MCAIssueConfirm.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MCAReturnBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MConDecider.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MConsole.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MConsoleNet.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MScAddBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MScDecider.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MScDelBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MScDetOfIssuedBooks.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MScIssue.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MScIssueConfirm.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MScReturnBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MTechAddBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MTechDecider.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MTechDelBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MTechDetOfIssuedBooks.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MTechIssue.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MTechIssueConfirm.resources
+E:\Project of Final year\Util\obj\Debug\Utility.MTechReturnBook.resources
+E:\Project of Final year\Util\obj\Debug\Utility.Narrator.resources
+E:\Project of Final year\Util\obj\Debug\Utility.SystemInfo.resources
+E:\Project of Final year\Util\obj\Debug\Utility.Translator.resources
+E:\Project of Final year\Util\obj\Debug\Utility.Util.resources
+E:\Project of Final year\Util\obj\Debug\Utility.Mail.resources
+E:\Project of Final year\Util\obj\Debug\Utility.Properties.Resources.resources
+E:\Project of Final year\Util\obj\Debug\Utility.Web_Scrapper.resources
+E:\Project of Final year\Util\obj\Debug\Utility.WebDecider.resources
+E:\Project of Final year\Util\obj\Debug\Utility.WebPage.resources
+E:\Project of Final year\Util\obj\Debug\Utility.WebSearch.resources
+E:\Project of Final year\Util\obj\Debug\Utility.csproj.GenerateResource.Cache

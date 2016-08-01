@@ -1,0 +1,1366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{99B30496-6609-477A-9DFC-A5CC0854B49D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Utility</RootNamespace>
+    <AssemblyName>Utility</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SignManifests>false</SignManifests>
+    <SignAssembly>false</SignAssembly>
+    <DelaySign>false</DelaySign>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Violet Light %28ICO%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsFormsIntegration">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsFormsToolkit">
+      <HintPath>..\..\..\Important\VS\Extensions\WindowsFormsToolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutDeveloper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutDeveloper.Designer.cs">
+      <DependentUpon>AboutDeveloper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BArchAddBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BArchAddBook.Designer.cs">
+      <DependentUpon>BArchAddBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BArchDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BArchDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BArchDelBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BArchDelBook.Designer.cs">
+      <DependentUpon>BArchDelBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BArchDetofIssuedBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BArchDetofIssuedBooks.Designer.cs">
+      <DependentUpon>BArchDetofIssuedBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BArchIssue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BArchIssue.Designer.cs">
+      <DependentUpon>BArchIssue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BArchDecider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BArchDecider.Designer.cs">
+      <DependentUpon>BArchDecider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BarchIssueConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BarchIssueConfirm.Designer.cs">
+      <DependentUpon>BarchIssueConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BArchReturnBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BArchReturnBook.Designer.cs">
+      <DependentUpon>BArchReturnBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BScAddBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BScAddBook.Designer.cs">
+      <DependentUpon>BScAddBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BScDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BScDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BScDecider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BScDecider.Designer.cs">
+      <DependentUpon>BScDecider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BScDelBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BScDelBook.Designer.cs">
+      <DependentUpon>BScDelBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BScDetofIssuedBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BScDetofIssuedBooks.Designer.cs">
+      <DependentUpon>BScDetofIssuedBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BScIssue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BScIssue.Designer.cs">
+      <DependentUpon>BScIssue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BScIssueConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BScIssueConfirm.Designer.cs">
+      <DependentUpon>BScIssueConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BScReturnBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BScReturnBook.Designer.cs">
+      <DependentUpon>BScReturnBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BTechAddBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BTechAddBook.Designer.cs">
+      <DependentUpon>BTechAddBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BTechDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BTechDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BTechDecider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BTechDecider.Designer.cs">
+      <DependentUpon>BTechDecider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BTechDelBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BTechDelBook.Designer.cs">
+      <DependentUpon>BTechDelBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BTechDetOfIssuedBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BTechDetOfIssuedBooks.Designer.cs">
+      <DependentUpon>BTechDetOfIssuedBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BTechIssue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BTechIssue.Designer.cs">
+      <DependentUpon>BTechIssue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BTechIssueConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BTechIssueConfirm.Designer.cs">
+      <DependentUpon>BTechIssueConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BTechReturnBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BTechReturnBook.Designer.cs">
+      <DependentUpon>BTechReturnBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chat.Designer.cs">
+      <DependentUpon>Chat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataDeCryptor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataDeCryptor.Designer.cs">
+      <DependentUpon>DataDeCryptor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataEnCryptor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataEnCryptor.Designer.cs">
+      <DependentUpon>DataEnCryptor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DDePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDePass.Designer.cs">
+      <DependentUpon>DDePass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Extra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Extra.Designer.cs">
+      <DependentUpon>Extra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FLock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FLock.Designer.cs">
+      <DependentUpon>FLock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HDDInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HDDInfo.Designer.cs">
+      <DependentUpon>HDDInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IDecider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IDecider.Designer.cs">
+      <DependentUpon>IDecider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteKey.Designer.cs">
+      <DependentUpon>DeleteKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteKeyandIV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteKeyandIV.Designer.cs">
+      <DependentUpon>DeleteKeyandIV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DePass.Designer.cs">
+      <DependentUpon>DePass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EText.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EText.Designer.cs">
+      <DependentUpon>EText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FileManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileManager.Designer.cs">
+      <DependentUpon>FileManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DDecider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDecider.Designer.cs">
+      <DependentUpon>DDecider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageDeCryptor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImageDeCryptor.Designer.cs">
+      <DependentUpon>ImageDeCryptor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageEnCryptor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImageEnCryptor.Designer.cs">
+      <DependentUpon>ImageEnCryptor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="image_cryptorDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>image_cryptorDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LibManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibManagement.Designer.cs">
+      <DependentUpon>LibManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MArchAddBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MArchAddBook.Designer.cs">
+      <DependentUpon>MArchAddBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MArchDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MArchDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MArchDecider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MArchDecider.Designer.cs">
+      <DependentUpon>MArchDecider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MArchDelBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MArchDelBook.Designer.cs">
+      <DependentUpon>MArchDelBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MArchDetOfIssuedBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MArchDetOfIssuedBooks.Designer.cs">
+      <DependentUpon>MArchDetOfIssuedBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MArchIssue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MArchIssue.Designer.cs">
+      <DependentUpon>MArchIssue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MArchIssueConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MArchIssueConfirm.Designer.cs">
+      <DependentUpon>MArchIssueConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MArchReturnBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MArchReturnBook.Designer.cs">
+      <DependentUpon>MArchReturnBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MBAAddBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MBAAddBook.Designer.cs">
+      <DependentUpon>MBAAddBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MBADataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MBADataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MBADecider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MBADecider.Designer.cs">
+      <DependentUpon>MBADecider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MBADelBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MBADelBook.Designer.cs">
+      <DependentUpon>MBADelBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MBADetofIssuedBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MBADetofIssuedBooks.Designer.cs">
+      <DependentUpon>MBADetofIssuedBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MBAIssue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MBAIssue.Designer.cs">
+      <DependentUpon>MBAIssue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MBAIssueConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MBAIssueConfirm.Designer.cs">
+      <DependentUpon>MBAIssueConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MBAReturnBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MBAReturnBook.Designer.cs">
+      <DependentUpon>MBAReturnBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCAAddBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCAAddBook.Designer.cs">
+      <DependentUpon>MCAAddBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCADataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MCADataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MCADecider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCADecider.Designer.cs">
+      <DependentUpon>MCADecider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCADelBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCADelBook.Designer.cs">
+      <DependentUpon>MCADelBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCADetOfIssuedBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCADetOfIssuedBooks.Designer.cs">
+      <DependentUpon>MCADetOfIssuedBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCAIssue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCAIssue.Designer.cs">
+      <DependentUpon>MCAIssue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCAIssueConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCAIssueConfirm.Designer.cs">
+      <DependentUpon>MCAIssueConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCAReturnBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCAReturnBook.Designer.cs">
+      <DependentUpon>MCAReturnBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MConDecider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MConDecider.Designer.cs">
+      <DependentUpon>MConDecider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MConsole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MConsole.Designer.cs">
+      <DependentUpon>MConsole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MConsoleNet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MConsoleNet.Designer.cs">
+      <DependentUpon>MConsoleNet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MScAddBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MScAddBook.Designer.cs">
+      <DependentUpon>MScAddBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MScDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MScDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MScDecider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MScDecider.Designer.cs">
+      <DependentUpon>MScDecider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MScDelBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MScDelBook.Designer.cs">
+      <DependentUpon>MScDelBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MScDetOfIssuedBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MScDetOfIssuedBooks.Designer.cs">
+      <DependentUpon>MScDetOfIssuedBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MScIssue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MScIssue.Designer.cs">
+      <DependentUpon>MScIssue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MScIssueConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MScIssueConfirm.Designer.cs">
+      <DependentUpon>MScIssueConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MScReturnBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MScReturnBook.Designer.cs">
+      <DependentUpon>MScReturnBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MTechAddBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MTechAddBook.Designer.cs">
+      <DependentUpon>MTechAddBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MTechDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MTechDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MTechDecider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MTechDecider.Designer.cs">
+      <DependentUpon>MTechDecider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MTechDelBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MTechDelBook.Designer.cs">
+      <DependentUpon>MTechDelBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MTechDetOfIssuedBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MTechDetOfIssuedBooks.Designer.cs">
+      <DependentUpon>MTechDetOfIssuedBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MTechIssue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MTechIssue.Designer.cs">
+      <DependentUpon>MTechIssue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MTechIssueConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MTechIssueConfirm.Designer.cs">
+      <DependentUpon>MTechIssueConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MTechReturnBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MTechReturnBook.Designer.cs">
+      <DependentUpon>MTechReturnBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Narrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Narrator.Designer.cs">
+      <DependentUpon>Narrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\BingTranslator\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="SystemInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemInfo.Designer.cs">
+      <DependentUpon>SystemInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Translator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Translator.Designer.cs">
+      <DependentUpon>Translator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Util.Designer.cs">
+      <DependentUpon>Util.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail.Designer.cs">
+      <DependentUpon>Mail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutDeveloper.resx">
+      <DependentUpon>AboutDeveloper.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BArchAddBook.resx">
+      <DependentUpon>BArchAddBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BArchDelBook.resx">
+      <DependentUpon>BArchDelBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BArchDetofIssuedBooks.resx">
+      <DependentUpon>BArchDetofIssuedBooks.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BArchIssue.resx">
+      <DependentUpon>BArchIssue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BArchDecider.resx">
+      <DependentUpon>BArchDecider.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BarchIssueConfirm.resx">
+      <DependentUpon>BarchIssueConfirm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BArchReturnBook.resx">
+      <DependentUpon>BArchReturnBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BScAddBook.resx">
+      <DependentUpon>BScAddBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BScDecider.resx">
+      <DependentUpon>BScDecider.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BScDelBook.resx">
+      <DependentUpon>BScDelBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BScDetofIssuedBooks.resx">
+      <DependentUpon>BScDetofIssuedBooks.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BScIssue.resx">
+      <DependentUpon>BScIssue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BScIssueConfirm.resx">
+      <DependentUpon>BScIssueConfirm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BScReturnBook.resx">
+      <DependentUpon>BScReturnBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BTechAddBook.resx">
+      <DependentUpon>BTechAddBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BTechDecider.resx">
+      <DependentUpon>BTechDecider.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BTechDelBook.resx">
+      <DependentUpon>BTechDelBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BTechDetOfIssuedBooks.resx">
+      <DependentUpon>BTechDetOfIssuedBooks.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BTechIssue.resx">
+      <DependentUpon>BTechIssue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BTechIssueConfirm.resx">
+      <DependentUpon>BTechIssueConfirm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BTechReturnBook.resx">
+      <DependentUpon>BTechReturnBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chat.resx">
+      <DependentUpon>Chat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataDeCryptor.resx">
+      <DependentUpon>DataDeCryptor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataEnCryptor.resx">
+      <DependentUpon>DataEnCryptor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DDecider.resx">
+      <DependentUpon>DDecider.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DDePass.resx">
+      <DependentUpon>DDePass.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Extra.resx">
+      <DependentUpon>Extra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FLock.resx">
+      <DependentUpon>FLock.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HDDInfo.resx">
+      <DependentUpon>HDDInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IDecider.resx">
+      <DependentUpon>IDecider.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteKey.resx">
+      <DependentUpon>DeleteKey.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteKeyandIV.resx">
+      <DependentUpon>DeleteKeyandIV.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DePass.resx">
+      <DependentUpon>DePass.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EText.resx">
+      <DependentUpon>EText.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileManager.resx">
+      <DependentUpon>FileManager.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageDeCryptor.resx">
+      <DependentUpon>ImageDeCryptor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageEnCryptor.resx">
+      <DependentUpon>ImageEnCryptor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibManagement.resx">
+      <DependentUpon>LibManagement.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MArchAddBook.resx">
+      <DependentUpon>MArchAddBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MArchDecider.resx">
+      <DependentUpon>MArchDecider.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MArchDelBook.resx">
+      <DependentUpon>MArchDelBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MArchDetOfIssuedBooks.resx">
+      <DependentUpon>MArchDetOfIssuedBooks.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MArchIssue.resx">
+      <DependentUpon>MArchIssue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MArchIssueConfirm.resx">
+      <DependentUpon>MArchIssueConfirm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MArchReturnBook.resx">
+      <DependentUpon>MArchReturnBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MBAAddBook.resx">
+      <DependentUpon>MBAAddBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MBADecider.resx">
+      <DependentUpon>MBADecider.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MBADelBook.resx">
+      <DependentUpon>MBADelBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MBADetofIssuedBooks.resx">
+      <DependentUpon>MBADetofIssuedBooks.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MBAIssue.resx">
+      <DependentUpon>MBAIssue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MBAIssueConfirm.resx">
+      <DependentUpon>MBAIssueConfirm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MBAReturnBook.resx">
+      <DependentUpon>MBAReturnBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCAAddBook.resx">
+      <DependentUpon>MCAAddBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCADecider.resx">
+      <DependentUpon>MCADecider.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCADelBook.resx">
+      <DependentUpon>MCADelBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCADetOfIssuedBooks.resx">
+      <DependentUpon>MCADetOfIssuedBooks.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCAIssue.resx">
+      <DependentUpon>MCAIssue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCAIssueConfirm.resx">
+      <DependentUpon>MCAIssueConfirm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCAReturnBook.resx">
+      <DependentUpon>MCAReturnBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MConDecider.resx">
+      <DependentUpon>MConDecider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MConsole.resx">
+      <DependentUpon>MConsole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MConsoleNet.resx">
+      <DependentUpon>MConsoleNet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MScAddBook.resx">
+      <DependentUpon>MScAddBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MScDecider.resx">
+      <DependentUpon>MScDecider.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MScDelBook.resx">
+      <DependentUpon>MScDelBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MScDetOfIssuedBooks.resx">
+      <DependentUpon>MScDetOfIssuedBooks.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MScIssue.resx">
+      <DependentUpon>MScIssue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MScIssueConfirm.resx">
+      <DependentUpon>MScIssueConfirm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MScReturnBook.resx">
+      <DependentUpon>MScReturnBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MTechAddBook.resx">
+      <DependentUpon>MTechAddBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MTechDecider.resx">
+      <DependentUpon>MTechDecider.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MTechDelBook.resx">
+      <DependentUpon>MTechDelBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MTechDetOfIssuedBooks.resx">
+      <DependentUpon>MTechDetOfIssuedBooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MTechIssue.resx">
+      <DependentUpon>MTechIssue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MTechIssueConfirm.resx">
+      <DependentUpon>MTechIssueConfirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MTechReturnBook.resx">
+      <DependentUpon>MTechReturnBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Narrator.resx">
+      <DependentUpon>Narrator.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemInfo.resx">
+      <DependentUpon>SystemInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Translator.resx">
+      <DependentUpon>Translator.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util.resx">
+      <DependentUpon>Util.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail.resx">
+      <DependentUpon>Mail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Web Scrapper.resx">
+      <DependentUpon>Web Scrapper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebDecider.resx">
+      <DependentUpon>WebDecider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebPage.resx">
+      <DependentUpon>WebPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebSearch.resx">
+      <DependentUpon>WebSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="BArchDataSet.xsc">
+      <DependentUpon>BArchDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BArchDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BArchDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BArchDataSet.xss">
+      <DependentUpon>BArchDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BScDataSet.xsc">
+      <DependentUpon>BScDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BScDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BScDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BScDataSet.xss">
+      <DependentUpon>BScDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BTechDataSet.xsc">
+      <DependentUpon>BTechDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BTechDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BTechDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BTechDataSet.xss">
+      <DependentUpon>BTechDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="image_cryptorDataSet1.xsc">
+      <DependentUpon>image_cryptorDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="image_cryptorDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>image_cryptorDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="image_cryptorDataSet1.xss">
+      <DependentUpon>image_cryptorDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="MArchDataSet.xsc">
+      <DependentUpon>MArchDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MArchDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MArchDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MArchDataSet.xss">
+      <DependentUpon>MArchDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MBADataSet.xsc">
+      <DependentUpon>MBADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MBADataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MBADataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MBADataSet.xss">
+      <DependentUpon>MBADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MCADataSet1.xsc">
+      <DependentUpon>MCADataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="MCADataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MCADataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MCADataSet1.xss">
+      <DependentUpon>MCADataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="MScDataSet.xsc">
+      <DependentUpon>MScDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MScDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MScDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MScDataSet.xss">
+      <DependentUpon>MScDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MTechDataSet.xsc">
+      <DependentUpon>MTechDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MTechDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MTechDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MTechDataSet.xss">
+      <DependentUpon>MTechDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Web Scrapper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Web Scrapper.Designer.cs">
+      <DependentUpon>Web Scrapper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebDecider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebDecider.Designer.cs">
+      <DependentUpon>WebDecider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebPage.Designer.cs">
+      <DependentUpon>WebPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebSearch.Designer.cs">
+      <DependentUpon>WebSearch.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Service References\BingTranslator\soap.wsdl" />
+    <None Include="Service References\BingTranslator\soap.xsd" />
+    <None Include="Service References\BingTranslator\soap1.xsd" />
+    <None Include="Service References\BingTranslator\soap2.xsd" />
+    <None Include="Service References\BingTranslator\SoapService.wsdl" />
+    <None Include="Service References\BingTranslator\SoapService1.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\BingTranslator\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\BingTranslator\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\BingTranslator\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\untitled.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3530049-abstract-wallpaper-design-with-smooth-angular-crystalline-gradients.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-gradients-computer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\details_gradient-screensaver-3-0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grdgreen01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grdgreen04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chic_Gradients_Psp_by_ElvenSword.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\__vector-floral-grow-two-preview-by-dragonart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xotzfn8070.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Experiment Wall_2-822364.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gradient.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gradient-wallpaper-i6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrounds-for-powerpoint-640x480.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_powerpoint_backgrounds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dcp4mwvj_191dgr7hzhf_b.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photoshop-background-1280x1024.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photoshop-background-1280x10241.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photoshop-background-1280x10242.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mac.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vista-effect.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\46.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DataEncryption.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photoshop-background-1280x10243.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dcp4mwvj_191dgr7hzhf_b1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black-014-loading-p.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black-018-loading-p.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black-015-loading-p.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\my-folder-vista-folder-lock.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows-8-Official-Wallpaper-520x325.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SpeechLib">
+      <Guid>{C866CA3A-32F7-11D2-9602-00C04F8EE628}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Discovery %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Discovery %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\High Resolution %28848%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Discovery %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Discovery %2810%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesk.jpg" />
+    <None Include="Resources\My_cartoon_eye_by_ILD.jpg" />
+    <None Include="Resources\chat.jpg" />
+    <None Include="Resources\imagesx1.jpg" />
+    <None Include="Resources\imagesop.jpg" />
+    <None Include="Resources\2754.jpg" />
+    <None Include="Resources\imageso.jpg" />
+    <None Include="Resources\imagesn.jpg" />
+    <None Include="Resources\imagesx.jpg" />
+    <None Include="Resources\imagesj.jpg" />
+    <None Include="Resources\images4.jpg" />
+    <None Include="Resources\Facebooklogopic.png" />
+    <None Include="Resources\twitter-icon.png" />
+    <None Include="Resources\ROORKEE-INSTITUTE-OF-TECHNO.jpg" />
+    <None Include="Resources\DSC00194.JPG" />
+    <None Include="Resources\DSC001941.JPG" />
+    <None Include="Resources\RS.jpg" />
+    <Content Include="Violet Light %28ICO%29.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
